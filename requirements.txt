@@ -5,3 +5,4 @@ torch
 shap
 streamlit
 joblib
+plotly

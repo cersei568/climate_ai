@@ -1,6 +1,6 @@
 # 🌍 ClimateAI: Environmental Data Analysis Web App
 
-![Hero Screenshot](assets/ca2.png)
+![Hero Screenshot](assets/ca0.png)
 
 ## Project Overview
 **ClimateAI** is a beginner-friendly web application that transforms environmental data into actionable insights using machine learning. Built with Python and Streamlit, it demonstrates fundamental data science concepts including data exploration, visualization, correlation analysis, and predictive modeling.
@@ -28,7 +28,7 @@ I developed a web-based application that automatically:
 - **Scikit-learn**: Machine learning algorithms
 - **Plotly**: Interactive visualizations
 
-👉 **Live Demo**: [Try the App](https://ebookwriter.streamlit.app/)  
+👉 **Live Demo**: [Try the App](https://climateai.streamlit.app)  
 👉 **Source Code**: [GitHub Repository](https://github.com/cersei568/climate_ai)  
 
 ## Preview
